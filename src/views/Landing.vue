@@ -6,7 +6,7 @@
           <img src="../assets/images/favicon.png" />
         </b-navbar-item>
         <div class="title-container">
-          <h3 class="title is-3">Pxelk</h3>
+          <h3 class="title is-3">Pixvz</h3>
         </div>
       </template>
       <template #end>
