@@ -1,6 +1,6 @@
 export default {
   IMAGE_PROXY_HOSTS: [process.env.VUE_APP_PXIMG_PROXY + "/"],
-  API_HOST: process.env.VUE_APP_HIBIAPI_HOST + "/pixiv/v1/",
+  API_HOST: process.env.VUE_APP_HIBIAPI_HOST + "/api/pixiv/",
   USER_API: "https://api-user.pixivel.moe/",
   ANNOUNCE_API: "https://api.shugetsu.dev/announce/fetch/pixivel",
   RAND_IMG: "https://www.loliapi.com/acg/",
