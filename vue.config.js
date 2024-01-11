@@ -25,9 +25,25 @@ module.exports = {
           src: "img/icons/icon-48x48.png",
           sizes: "48x48",
           type: "image/png",
-        }
-      ]
+        },
+        {
+          src: "img/icons/icon-64x64.png",
+          sizes: "64x64",
+          type: "image/png",
+        },
 
+        {
+          src: "img/icons/icon-128x128.png",
+          sizes: "128x128",
+          type: "image/png",
+        },
+        {
+          src: "img/icons/icon-256x256.png",
+          sizes: "256x256",
+          type: "image/png",
+        },
+
+      ],
     },
     appleMobileWebAppCapable: "yes",
     appleMobileWebAppStatusBarStyle: "#8F77B5",
